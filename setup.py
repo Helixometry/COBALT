@@ -7,7 +7,6 @@ setup(
     name="COBALT",
     version="1.0.0",
     author="Mohd Mujtaba Akhtar, Girish, Sanjam Wadhwa, Muskaan Singh, Ning Ma",
-    author_email="girish281003@gmail.com",
     description="Non-Invasive Tuberculosis Detection from Cough Audio",
     long_description=long_description,
     long_description_content_type="text/markdown",
