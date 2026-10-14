@@ -1,0 +1,15 @@
+model:
+  spectral_dim: 13
+  foundation_dim: 768
+  hidden_dim: 256
+  num_prototypes: 32
+  dropout: 0.3
+
+training:
+  batch_size: 32
+  epochs: 50
+  learning_rate: 1e-4
+  weight_decay: 1e-2
+
+device: cuda
+seed: 42
